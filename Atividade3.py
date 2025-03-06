@@ -1,4 +1,4 @@
-#Este código calcula o volume de uma caixa retangular com valores fixos nas váriaveisidad"
+#Este código calcula o volume de uma caixa retangular com valores fixos nas váriaveis de medidas"
 
 comprimento = 12
 largura = 14
