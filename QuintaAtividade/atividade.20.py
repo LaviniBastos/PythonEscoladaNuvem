@@ -1,4 +1,4 @@
-# Função que armazena as notas dos alunos, e quando o usuário digitar 'fim'
+# Função que armazena as notas dos alunos, e quando o usuário digitar 'fim'o programa exibe a quantidade de notas inseridas e calcula à média de todas
 
 
 def registro_notas():
